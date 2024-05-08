@@ -48,7 +48,7 @@ Please refer to
 
 ## License
 
-Please read the ***terms of use, licenses, copyrights, and proprietary*** for each of the above tools and datasets.
+Please refer to the ***terms of use, licenses, copyrights, and proprietary*** for each of the above tools and datasets respectively.
 
 
 
