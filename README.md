@@ -41,10 +41,9 @@ Please refer to
 
 ### Authors
 
+- James Mungai
 - Kevin Kori
 - Krittaprot Tangkittikun
-- James Mungai
-
 
 ## License
 
