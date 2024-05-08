@@ -3,7 +3,7 @@
 ## Introduction
 This exploratory project is the work for the group `Context Crafters` in the Georgia Tech Deep Learning graduate class (Spring 2024). Please visit this page for details of the [CS 7643](https://omscs.gatech.edu/cs-7643-deep-learning) class. 
 
-The experiments, results, and opinions are those of the authors
+***Disclaimer**: The views and opinions expressed in this project are those of the authors and do not necessarily reflect the views or positions of Georgia Tech.
 
 ## Project Overview
 
@@ -50,5 +50,5 @@ Please refer to
 
 Please read the ***terms of use and licenses** for each of the above tools and datasets.
 
-***Disclaimer**: The views and opinions expressed in this project are those of the authors and do not necessarily reflect the views or positions of Georgia Tech.
+
 
