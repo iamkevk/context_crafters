@@ -7,7 +7,7 @@ This exploratory project is the work for the group `Context Crafters` in the Geo
 
 ## Project Overview
 
-In February 2024, Google [released Gemma](https://blog.google/technology/developers/gemma-open-models/) Gemma, a family of lightweight open-source generative AI models, designed primarily for developers and researchers. Using Google's Gemma as the pre-trained model, we attempt in this project to fine-tune this foundation generative model to adapt it to perform better at question-answering content from [Kaggle documentation](https://www.kaggle.com/docs)  
+In February 2024, Google [released Gemma](https://blog.google/technology/developers/gemma-open-models/) Gemma, a family of lightweight open-source generative AI models, designed primarily for developers and researchers. Using Google's Gemma as the pre-trained model, we attempt in this project to fine-tune this foundation generative model to adapt it to perform better at question-answering content from [Kaggle documentation](https://www.kaggle.com/docs)  .
 
 ## Motivation
 In recent times the use of large language models (LLMs) for question-answering tasks has seen a significant increase, thanks to the impressive capabilities of models such as ChatGPT. However, foundation LLMs are not inherently adapted to domain-specific tasks and require some techniques to further train the model using a representative domain-specific dataset. The work in this project shows a possible approach for fine-tuning open-source language models to a specific task. 
