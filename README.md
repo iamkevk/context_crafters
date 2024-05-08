@@ -34,7 +34,10 @@ We address these and more challenges of fine-tuning a large language model which
 
 ## How to use
 
-Please refer to the [report]() and the accompanying [notebook]()
+Please refer to 
+- the [`report/Project_Report___CS_7643__Context_Crafters___Publish_Copy_.pdf`](https://github.com/iamkevk/context_crafters/blob/4e8a5cff5de62a3bf3cd9b5be5220cd832197a42/report/Project_Report___CS_7643__Context_Crafters___Publish_Copy_.pdf) and,
+-  the accompanying [`notebook/QLoRA_Fine_Tuning_Gemma_Kaggle_Assistant.ipynb`](https://github.com/iamkevk/context_crafters/blob/0cdded452848311454d15260d492275dbd5dc03d/notebook/QLoRA_Fine_Tuning_Gemma_Kaggle_Assistant.ipynb)
+-  The `datasets` are available for download [here](https://github.com/iamkevk/context_crafters/tree/f2f29c78997e681de0795cbcc82a92deba186d4e/dataset) 
 
 ### Authors
 
