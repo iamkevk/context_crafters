@@ -1,7 +1,7 @@
 # Fine-tuning Google's Gemma (7b) LLM with Kaggle-documentation synthetic dataset 
 
 ## Introduction
-This project is the work for the group `Context Crafters` in the Georgia Tech Deep Learning graduate class (Spring 2024). Please visit this page for details of the [CS 7643](https://omscs.gatech.edu/cs-7643-deep-learning) class. 
+This exploratory project is the work for the group `Context Crafters` in the Georgia Tech Deep Learning graduate class (Spring 2024). Please visit this page for details of the [CS 7643](https://omscs.gatech.edu/cs-7643-deep-learning) class. 
 
 The experiments, results, and opinions are those of the authors
 
@@ -30,7 +30,7 @@ We address these and more challenges of fine-tuning a large language model which
 - Fine-tuning approach: [QLoRA-Quantized Low-Rank Adaptation](https://arxiv.org/abs/2305.14314)
 - Computing environment: [V100 GPU](https://colab.research.google.com/notebooks/pro.ipynb)
 - Dataset: Synthetic dataset generated from scrapped [Kaggle documentation](https://www.kaggle.com/docs) data
-- Report: Please refer to the report for complete implementation details
+- Hyperparameter tuning: Please refer to the report for complete implementation details
 
 ## How to use
 
